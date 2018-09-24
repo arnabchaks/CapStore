@@ -8,7 +8,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-
+//Admin Vamshi
 /*@Entity
 @Table(name="admin")*/
 @JsonIgnoreProperties(ignoreUnknown = true)

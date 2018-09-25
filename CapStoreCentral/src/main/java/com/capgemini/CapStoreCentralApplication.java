@@ -8,5 +8,6 @@ public class CapStoreCentralApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CapStoreCentralApplication.class, args);
+		//oadsasdad
 	}
 }
